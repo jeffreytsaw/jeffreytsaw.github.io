@@ -6,6 +6,7 @@
 
 nav ul {
    list-style-type: none;
+   font-weight: bold;
    width: 70%;
    padding: 0px;
    margin: 60px auto;
