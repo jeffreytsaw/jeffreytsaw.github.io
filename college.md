@@ -203,10 +203,10 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
     - I've talked about TAing above but it is a good way to stay connected to the material and improve debugging skills
     - I still hate grading
 - SI/EXCEL: Supervisor
-    - I had a supervisor role, but I didn't really do much as I was busy with classes and TAing
+    - I had a supervisor role, but I didn't really do much as I was busy with classes/research/TAing
 - 10-701: Introduction to Machine Learning (PhD)
-    - Pretty rigorous math-wise, and covers mathier stuff in boosting (Adaboost) and EM and inference and training of HMMs than the master's/undergrad intro class
-    - Project is a good opportunity to simulate research and explore a cool data set or algorithm
+    - Pretty rigorous math-wise, and covers mathier stuff in boosting (Adaboost), EM, and inference and training of HMMs than the master's/undergrad intro class
+    - Project is a good opportunity to simulate real research and explore a cool data set or algorithm
 - 39-500: CIT Honors Research Project  
     - Project was focused on robotic controls which I knew nothing about so I spent the semester learning and trying to understand the baseline
 - 21-355: Principles of Real Analysis I
@@ -218,7 +218,7 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
     - There was a ton of writing every week, though which sucked. ~1 page 12pt font single space every week
 - 70-321: Negotiation and Conflict Resolution
     - This class was a lot of busy work. Negotiations were fun but weird to do virtually
-    - Did not like how case came out thursday afternoon and was due Friday morning that was bad
+    - Did not like how the negotiation scenarios came out Thursday afternoon and was due Friday morning that was bad
 
 **Other:** TBD
 
