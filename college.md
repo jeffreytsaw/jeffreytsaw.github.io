@@ -197,30 +197,56 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
     - I did meet a ton of cool people and learned a lot about capital markets and what banks actually do.
     - Fintech is surprisingly different from traditional SWE. The focus in fintech is on how it impacts the business, which is interesting to see how scope affects the software you build.
     
-
-
 ## Fall 2020
 - TA: 18-349 - Introduction to Embedded Systems
-- SI/EXCEL: TBD
+    - There wasn't much course logistics and things that needed to be changed so workload was from office hours + small groups
+    - I've talked about TAing above but it is a good way to stay connected to the material and improve debugging skills
+    - I still hate grading
+- SI/EXCEL: Supervisor
+    - I had a supervisor role, but I didn't really do much as I was busy with classes and TAing
 - 10-701: Introduction to Machine Learning (PhD)
-- 39-500: CIT Honors Research Project 
+    - Pretty rigorous math-wise, and covers mathier stuff in boosting (Adaboost) and EM and inference and training of HMMs than the master's/undergrad intro class
+    - Project is a good opportunity to simulate research and explore a cool data set or algorithm
+- 39-500: CIT Honors Research Project  
+    - Project was focused on robotic controls which I knew nothing about so I spent the semester learning and trying to understand the baseline
 - 21-355: Principles of Real Analysis I
+    - Problem sets took me a good 1-2 days to finish and was pretty difficult but I'm just not great at math
+    - I thought the exams were a little unfair since they featured 2-3 homework level problems in a 3 hour window and the homework problems usually take me a good 2-3 hours to do 1.
 - 17-200: Ethics and Policy Issues in Computing
+    - This class is interesting and gets you to think about tech from a different perspective
+    - It was a pretty big slap in the face to see some of the ethical greyness a lot of governments and big tech companies operate under
+    - There was a ton of writing every week, though which sucked. ~1 page 12pt font single space every week
 - 70-321: Negotiation and Conflict Resolution
+    - This class was a lot of busy work. Negotiations were fun but weird to do virtually
+    - Did not like how case came out thursday afternoon and was due Friday morning that was bad
 
 **Other:** TBD
 
-**Workload:** TBD
+**Workload:**  54 units - Moderate. Heavy towards the end (but probably because I was lazy)
 
-**Notes:** TBD
-
-
-# Preliminary Future Schedule
+**Notes:** I didn't do great in analysis, but I had a great time. The level of thinking is quite stimulating. I got pretty into my 10-701 project and it made me want to do ML research in the future. 17-200 and 70-321 had a lot of busy work every week, which I wasn't used to since my gen-eds typically had like 0 work aside from assignments. TAing was quite a bit of work. Professor Kesden made us have small groups to relieve some pressure on OH and it worked for the most part, but it made the TAs feel pressured to be available to the students 24/7. I know it's supposed to be a 12-20 hour job a week but every week was pretty packed and some of the bugs were quite nasty.
 
 ## Spring 2021
 - 18-447: Introduction to Computer Architecture
 - 18-500: ECE Design Experience
 - 39-500: CIT Honors Research Project
 - 33-234: Quanum Physics
-- 54-191: Acting for Non-Majors
+- 80-405: Game Theory
+- 84-200: Acceleration: A Global Security War Game in the Age of Pandemic
+
+
+
+# Preliminary Future Schedule
+
+## Fall 2021
+- 18740: Modern Computer Architecture
+- 10-703: Deep Reinforcement Learning and Control
+- 33-658: Quantum Computation and Quantum Information Theory
+- 18-980: Master's Graduate Project
+
+## Spring 2022
+-  18-748: Wireless Sensor Networks
+- 10-707: Advanced Deep Learning
+- 16-720: Computer Vision
+- 16-831: Statistical Techniques in Robotics
 
