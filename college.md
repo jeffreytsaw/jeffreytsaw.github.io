@@ -230,7 +230,7 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
 - 18-447: Introduction to Computer Architecture
 - 18-500: ECE Design Experience
 - 39-500: CIT Honors Research Project
-- 33-234: Quanum Physics
+- 33-234: Quantum Physics
 - 80-405: Game Theory
 - 84-200: Acceleration: A Global Security War Game in the Age of Pandemic
 
