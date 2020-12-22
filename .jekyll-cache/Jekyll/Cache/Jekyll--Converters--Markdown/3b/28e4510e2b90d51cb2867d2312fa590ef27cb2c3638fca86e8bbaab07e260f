@@ -1,4 +1,4 @@
-I"^<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
+I"�j<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
 
 <p><strong>Before CMU:</strong> I took IB math, physics, English Chinese, econ and chem. I also had a solid competition math background (nothing crazy, just local competitions/AMC 12/ AIME). My programming experience was limited to failed attempts to learn python on codeacademy, so no real coding experience.</p>
 
@@ -329,30 +329,82 @@
 
 <h2 id="fall-2020">Fall 2020</h2>
 <ul>
-  <li>TA: 18-349 - Introduction to Embedded Systems</li>
-  <li>SI/EXCEL: TBD</li>
-  <li>10-701: Introduction to Machine Learning (PhD)</li>
-  <li>39-500: CIT Honors Research Project</li>
-  <li>21-355: Principles of Real Analysis I</li>
-  <li>17-200: Ethics and Policy Issues in Computing</li>
-  <li>70-321: Negotiation and Conflict Resolution</li>
+  <li>TA: 18-349 - Introduction to Embedded Systems
+    <ul>
+      <li>There wasn’t much course logistics and things that needed to be changed so workload was from office hours + small groups</li>
+      <li>I’ve talked about TAing above but it is a good way to stay connected to the material and improve debugging skills</li>
+      <li>I still hate grading</li>
+    </ul>
+  </li>
+  <li>SI/EXCEL: Supervisor
+    <ul>
+      <li>I had a supervisor role, but I didn’t really do much as I was busy with classes/research/TAing</li>
+    </ul>
+  </li>
+  <li>10-701: Introduction to Machine Learning (PhD)
+    <ul>
+      <li>Pretty rigorous math-wise, and covers mathier stuff in boosting (Adaboost), EM, and inference and training of HMMs than the master’s/undergrad intro class</li>
+      <li>Project is a good opportunity to simulate real research and explore a cool data set or algorithm</li>
+    </ul>
+  </li>
+  <li>39-500: CIT Honors Research Project
+    <ul>
+      <li>Project was focused on robotic controls which I knew nothing about so I spent the semester learning and trying to understand the baseline</li>
+    </ul>
+  </li>
+  <li>21-355: Principles of Real Analysis I
+    <ul>
+      <li>Problem sets took me a good 1-2 days to finish and was pretty difficult but I’m just not great at math</li>
+      <li>I thought the exams were a little unfair since they featured 2-3 homework level problems in a 3 hour window and the homework problems usually take me a good 2-3 hours to do 1.</li>
+    </ul>
+  </li>
+  <li>17-200: Ethics and Policy Issues in Computing
+    <ul>
+      <li>This class is interesting and gets you to think about tech from a different perspective</li>
+      <li>It was a pretty big slap in the face to see some of the ethical greyness a lot of governments and big tech companies operate under</li>
+      <li>There was a ton of writing every week, though which sucked. ~1 page 12pt font single space every week</li>
+    </ul>
+  </li>
+  <li>70-321: Negotiation and Conflict Resolution
+    <ul>
+      <li>This class was a lot of busy work. Negotiations were fun but weird to do virtually</li>
+      <li>Did not like how the negotiation scenarios came out Thursday afternoon and was due Friday morning that was bad</li>
+    </ul>
+  </li>
 </ul>
 
 <p><strong>Other:</strong> TBD</p>
 
-<p><strong>Workload:</strong> TBD</p>
+<p><strong>Workload:</strong>  54 units - Moderate. Heavy towards the end (but probably because I was lazy)</p>
 
-<p><strong>Notes:</strong> TBD</p>
-
-<h1 id="preliminary-future-schedule">Preliminary Future Schedule</h1>
+<p><strong>Notes:</strong> I didn’t do great in analysis, but I had a great time. The level of thinking is quite stimulating. I got pretty into my 10-701 project and it made me want to do ML research in the future. 17-200 and 70-321 had a lot of busy work every week, which I wasn’t used to since my gen-eds typically had like 0 work aside from assignments. TAing was quite a bit of work. Professor Kesden made us have small groups to relieve some pressure on OH and it worked for the most part, but it made the TAs feel pressured to be available to the students 24/7. I know it’s supposed to be a 12-20 hour job a week but every week was pretty packed and some of the bugs were quite nasty.</p>
 
 <h2 id="spring-2021">Spring 2021</h2>
 <ul>
   <li>18-447: Introduction to Computer Architecture</li>
   <li>18-500: ECE Design Experience</li>
   <li>39-500: CIT Honors Research Project</li>
-  <li>33-234: Quanum Physics</li>
-  <li>54-191: Acting for Non-Majors</li>
+  <li>33-234: Quantum Physics</li>
+  <li>80-405: Game Theory</li>
+  <li>84-200: Acceleration: A Global Security War Game in the Age of Pandemic</li>
+</ul>
+
+<h1 id="preliminary-future-schedule">Preliminary Future Schedule</h1>
+
+<h2 id="fall-2021">Fall 2021</h2>
+<ul>
+  <li>18740: Modern Computer Architecture</li>
+  <li>10-703: Deep Reinforcement Learning and Control</li>
+  <li>33-658: Quantum Computation and Quantum Information Theory</li>
+  <li>18-980: Master’s Graduate Project</li>
+</ul>
+
+<h2 id="spring-2022">Spring 2022</h2>
+<ul>
+  <li>18-748: Wireless Sensor Networks</li>
+  <li>10-707: Advanced Deep Learning</li>
+  <li>16-720: Computer Vision</li>
+  <li>16-831: Statistical Techniques in Robotics</li>
 </ul>
 
 :ET
