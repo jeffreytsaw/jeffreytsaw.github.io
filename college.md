@@ -212,34 +212,58 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
 - 21-355: Principles of Real Analysis I
     - Problem sets took me a good 1-2 days to finish and was pretty difficult but I'm just not great at math
     - I thought the exams were a little unfair since they featured 2-3 homework level problems in a 3 hour window and the homework problems usually take me a good 2-3 hours to do 1.
-- 17-200: Ethics and Policy Issues in Computing
+- **☆** 17-200: Ethics and Policy Issues in Computing
     - This class is interesting and gets you to think about tech from a different perspective
     - It was a pretty big slap in the face to see some of the ethical greyness a lot of governments and big tech companies operate under
     - There was a ton of writing every week, though which sucked. ~1 page 12pt font single space every week
+    - In hindsight one of the classes that had the most impact on me at CMU
 - 70-321: Negotiation and Conflict Resolution
     - This class was a lot of busy work. Negotiations were fun but weird to do virtually
     - Did not like how the negotiation scenarios came out Thursday afternoon and was due Friday morning that was bad
 
-**Other:** TBD
 
 **Workload:**  54 units - Moderate. Heavy towards the end (but probably because I was lazy)
 
 **Notes:** I didn't do great in analysis, but I had a great time. The level of thinking is quite stimulating. I got pretty into my 10-701 project and it made me want to do ML research in the future. 17-200 and 70-321 had a lot of busy work every week, which I wasn't used to since my gen-eds typically had like 0 work aside from assignments. TAing was quite a bit of work. Professor Kesden made us have small groups to relieve some pressure on OH and it worked for the most part, but it made the TAs feel pressured to be available to the students 24/7. I know it's supposed to be a 12-20 hour job a week but every week was pretty packed and some of the bugs were quite nasty.
 
 ## Spring 2021
-- 18-447: Introduction to Computer Architecture
+- TA: 10-701 - Introduction to Machine Learning (PhD)
+    - I bagged the in person office hours, which meant almost nobody showed up 
+    - Almost every homework and exam was written from scratch by the TAs so between writing, testing, revising, and grading it was a lot of work
+- **☆** 18-447: Introduction to Computer Architecture
+    - Demystified a lot of details with CPUs. It was cool to see how smart some of the solutions are to make CPUs run faster 
+    - Labs were manageable but a decent amount of creativity goes into the last lab which was graded based on relative performance to the class
+    - Exams were difficult and unfair IMO, they were 11 problems in 55 minutes and you couldn't go backwards so some problems Hoe gave were just mean
+    - Lectures were mainly separate from the labs but I learned a lot from both. Honestly one of the classes I've learned the most from at CMU
 - 18-500: ECE Design Experience
-- 39-500: CIT Honors Research Project
+    - Basically this was a semester long project with a bunch of presentations 
+    - The pace of the course was awful. Over half the semester was presentations about constraints and requirements and not dedicated to working on the project. Even though it's supposed to be a semester in reality we only had a few months
+    - The budget was nowhere near enough and most teams I know used expensive tech they already owned. If you need something fancy you're better of buying or borrowing from a friend
+    - We ended up winning second place which was pretty cool, but was it worth the late nights in lab the last few weeks? Definitely.
 - 33-234: Quantum Physics
+    - The course covered more than I expected. It wasn't just time-independent Schrodinger's, but raising and lowering operators in harmonic oscillator, and QM in 3D where we rigorously defined and calculated the 3 quantum numbers. Pretty cool stuff.
+    - Homeworks were graded super leniently and the exams were not bad either once the Professor changed it to 24 hour time limits
 - 80-405: Game Theory
+    - In all honesty I learned next to nothing in this class. There were no exams only homeworks and lectures weren't recorded so I learned enough to do the homeworks and that's about it
+    - All things considered, pretty easy gen-ed, only 5 homeworks. Although there was a lot of panic whenever I opened the homework and had no idea what it was talking about.
 - 84-200: Acceleration: A Global Security War Game in the Age of Pandemic
+    - This was a 4 day long simulation where we made decisions on behalf of governments in a simulated political environoment. 
+    - You get as much as you put into it, so if you really get into the role, and read all the information and try and get involved with discussions it can be a lot of fun. 
+    - The whole simulation was ran by Valens Global, which was a company that consulted with the US government on things like Al-Qaeda, so that was pretty neat.
+    
+    **Other:** This ends my undergraduate career. I laughed, I cried, but it was an experience I wouldn't change for the world.
+    
+    **Workload:**  45 units - Light/Moderate. Moderate when Comp Arch labs were due
+    
+    **Notes:** 18-447 labs sucked up majority of my time and my partners weren't the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It's always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn't do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :). 
+
 
 
 
 # Preliminary Future Schedule
 
 ## Fall 2021
-- 18740: Modern Computer Architecture
+- 18645: How to Write Fast Code
 - 10-703: Deep Reinforcement Learning and Control
 - 33-658: Quantum Computation and Quantum Information Theory
 - 18-980: Master's Graduate Project

@@ -1,4 +1,4 @@
-I"�j<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
+I"uv<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
 
 <p><strong>Before CMU:</strong> I took IB math, physics, English Chinese, econ and chem. I also had a solid competition math background (nothing crazy, just local competitions/AMC 12/ AIME). My programming experience was limited to failed attempts to learn python on codeacademy, so no real coding experience.</p>
 
@@ -358,11 +358,12 @@
       <li>I thought the exams were a little unfair since they featured 2-3 homework level problems in a 3 hour window and the homework problems usually take me a good 2-3 hours to do 1.</li>
     </ul>
   </li>
-  <li>17-200: Ethics and Policy Issues in Computing
+  <li><strong>☆</strong> 17-200: Ethics and Policy Issues in Computing
     <ul>
       <li>This class is interesting and gets you to think about tech from a different perspective</li>
       <li>It was a pretty big slap in the face to see some of the ethical greyness a lot of governments and big tech companies operate under</li>
       <li>There was a ton of writing every week, though which sucked. ~1 page 12pt font single space every week</li>
+      <li>In hindsight one of the classes that had the most impact on me at CMU</li>
     </ul>
   </li>
   <li>70-321: Negotiation and Conflict Resolution
@@ -381,19 +382,54 @@
 
 <h2 id="spring-2021">Spring 2021</h2>
 <ul>
-  <li>18-447: Introduction to Computer Architecture</li>
-  <li>18-500: ECE Design Experience</li>
-  <li>39-500: CIT Honors Research Project</li>
-  <li>33-234: Quantum Physics</li>
-  <li>80-405: Game Theory</li>
-  <li>84-200: Acceleration: A Global Security War Game in the Age of Pandemic</li>
+  <li>TA: 10-701 - Introduction to Machine Learning (PhD)
+    <ul>
+      <li>I bagged the in person office hours, which meant almost nobody showed up</li>
+      <li>Almost every homework and exam was written from scratch by the TAs so between writing, testing, revising, and grading it was a lot of work</li>
+    </ul>
+  </li>
+  <li><strong>☆</strong> 18-447: Introduction to Computer Architecture
+    <ul>
+      <li>Demystified a lot of details with CPUs. It was cool to see how smart some of the solutions are to make CPUs run faster</li>
+      <li>Labs were manageable but a decent amount of creativity goes into the last lab which was graded based on relative performance to the class</li>
+      <li>Exams were difficult and unfair IMO, they were 11 problems in 55 minutes and you couldn’t go backwards so some problems Hoe gave were just mean</li>
+      <li>Lectures were mainly separate from the labs but I learned a lot from both. Honestly one of the classes I’ve learned the most from at CMU</li>
+    </ul>
+  </li>
+  <li>18-500: ECE Design Experience
+    <ul>
+      <li>Basically this was a semester long project with a bunch of presentations</li>
+      <li>The pace of the course was awful. Over half the semester was presentations about constraints and requirements and not dedicated to working on the project. Even though it’s supposed to be a semester in reality we only had a few months</li>
+      <li>The budget was nowhere near enough and most teams I know used expensive tech they already owned. If you need something fancy you’re better of buying or borrowing from a friend</li>
+      <li>We ended up winning second place which was pretty cool, but was it worth the late nights in lab the last few weeks? Definitely.</li>
+    </ul>
+  </li>
+  <li>33-234: Quantum Physics
+    <ul>
+      <li>The course covered more than I expected. It wasn’t just time-independent Schrodinger’s, but raising and lowering operators in harmonic oscillator, and QM in 3D where we rigorously defined and calculated the 3 quantum numbers. Pretty cool stuff.</li>
+      <li>Homeworks were graded super leniently and the exams were not bad either once the Professor changed it to 24 hour time limits</li>
+    </ul>
+  </li>
+  <li>80-405: Game Theory
+    <ul>
+      <li>In all honesty I learned next to nothing in this class. There were no exams only homeworks and lectures weren’t recorded so I learned enough to do the homeworks and that’s about it</li>
+      <li>All things considered, pretty easy gen-ed, only 5 homeworks. Although there was a lot of panic whenever I opened the homework and had no idea what it was talking about.</li>
+    </ul>
+  </li>
+  <li>84-200: Acceleration: A Global Security War Game in the Age of Pandemic
+    <ul>
+      <li>This was a 4 day long simulation where we made decisions on behalf of governments in a simulated political environoment.</li>
+      <li>You get as much as you put into it, so if you really get into the role, and read all the information and try and get involved with discussions it can be a lot of fun.</li>
+      <li>The whole simulation was ran by Valens Global, which was a company that consulted with the US government on things like Al-Q</li>
+    </ul>
+  </li>
 </ul>
 
 <h1 id="preliminary-future-schedule">Preliminary Future Schedule</h1>
 
 <h2 id="fall-2021">Fall 2021</h2>
 <ul>
-  <li>18740: Modern Computer Architecture</li>
+  <li>18645: How to Write Fast Code</li>
   <li>10-703: Deep Reinforcement Learning and Control</li>
   <li>33-658: Quantum Computation and Quantum Information Theory</li>
   <li>18-980: Master’s Graduate Project</li>
