@@ -224,7 +224,7 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
 
 **Workload:**  54 units - Moderate. Heavy towards the end (but probably because I was lazy)
 
-**Notes:** I didn't do great in analysis, but I had a great time. The level of thinking is quite stimulating. I got pretty into my 10-701 project and it made me want to do ML research in the future. 17-200 and 70-321 had a lot of busy work every week, which I wasn't used to since my gen-eds typically had like 0 work aside from assignments. TAing was quite a bit of work. Professor Kesden made us have small groups to relieve some pressure on OH and it worked for the most part, but it made the TAs feel pressured to be available to the students 24/7. I know it's supposed to be a 12-20 hour job a week but every week was pretty packed and some of the bugs were quite nasty.
+**Reflection:** I didn't do great in analysis, but I had a great time. The level of thinking is quite stimulating. I got pretty into my 10-701 project and it made me want to do ML research in the future. 17-200 and 70-321 had a lot of busy work every week, which I wasn't used to since my gen-eds typically had like 0 work aside from assignments. TAing was quite a bit of work. Professor Kesden made us have small groups to relieve some pressure on OH and it worked for the most part, but it made the TAs feel pressured to be available to the students 24/7. I know it's supposed to be a 12-20 hour job a week but every week was pretty packed and some of the bugs were quite nasty.
 
 ## Spring 2021
 - TA: 10-701 - Introduction to Machine Learning (PhD)
@@ -255,22 +255,40 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
     
     **Workload:**  45 units - Light/Moderate. Moderate when Comp Arch labs were due
     
-    **Notes:** 18-447 labs sucked up majority of my time and my partners weren't the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It's always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn't do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :). 
+    **Reflection:** 18-447 labs sucked up majority of my time and my partners weren't the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It's always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn't do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :). 
 
 
+## Summer 2021
+- Unplanned rest and relax
+    - I had an offer to work at Apple, but silly me didn't fill out the work authorization form for OPT properly and submitted to late and by the time the I realized that I messed up it was too late. Luckily my recruiter and manager were nice enough to work with me to push it to the fall semester, but that still meant I had nothing to do during the summer.
+    - I ended up living in New York and hanging out with friends until they started work. Tried doing research again but the project ended up not being super interesting and I lost motivation pretty quickly. 
 
+## Fall 2021
+- Apple co-op: GPU Verif Intern
+    - I worked on the GPU memory verification team from September until December. My work mainly focused on testing parts of the graphics interconnect blocks
+    - I also worked on some coverage code for some of the cover groups in the interconnect block. Our goal was to use Xcelium ML tool to try and hit coverage points that aren't hit with current stimulus. Ended up being kind of successful was able to pick up 10% of unhit cover points afterr 5 iterations, and hitting these 2 points 3 times in 10 iterations.
+    - It was a little hard working remotely in the east coast because that means my workday ends at 8pm but at least I didn't have to get up early.
+    - Working remotely is a double-edged sword. It's pretty laid back, but it's hard to motivate yourself to work. Some days i had to go to campus just to get in the mindset
+    - Presentation was also very different. Instead of presenting to business folk like I did last summer I was presenting to my team manager who knew exactly what was going on and was asking a lot of questions.
+- TA: 18-100 - Introduction to Electrical and Computer Engineering
+    - The course was revamped from spring 2018 so a lot of the content was new and taught in a different way
+    - Unfortunately there's still an emphasis on the analog and even more unfortunately I still barely know how a transistor works
+    - Small groups was fun for the most part but was kind of hard to demo the labs when I hadn't done them...oops.
+    - Grading was painful as ever. These freshman were submitting blurry photos of their work, illegible handwriting, and answers written in the margins of the question paper. Guys, write your answers on a separate piece of paper neatly. The person grading will normally be nicer if it's easy to grade.
+    
+    **Reflection:** I made the decision to take a semester off from school and delay my masters before I got the offer from Apple. It was a tough decision at the time since my recruiter was adamant that an offer was not guaranteed, but I had to think about trying to recruit full time without 2 summers of experience and that would be tough. I was also considering doing a PhD and applications would start in the fall before I had any research experience. This way I have spring and summer for research before the application cycle next fall. Having worked 2 summers in industry, I'm heavily considering a PhD. It's not that the work isn't hard or interesting, it just doesn't feel exciting to me. I was talking to a friend about his project on graph signal processing and graph-CNNs and it really made me want to be on the cutting edge. Hopefully research goes well in the next semester goes will so I can confidently apply for a CS PhD.
+        
+## Spring 2022
+- 18-743: Neuromorphic Computer Architecture and Processor Design
+- 10-707: Advanced Deep Learning
+- 15-750: Algorithms in the Real World
+- 18-980: Graduate Projects
 
 # Preliminary Future Schedule
 
-## Fall 2021
-- 18645: How to Write Fast Code
+## Fall 2022
 - 10-703: Deep Reinforcement Learning and Control
-- 33-658: Quantum Computation and Quantum Information Theory
-- 18-980: Master's Graduate Project
-
-## Spring 2022
--  18-748: Wireless Sensor Networks
-- 10-707: Advanced Deep Learning
-- 16-720: Computer Vision
-- 16-831: Statistical Techniques in Robotics
+- 33-658: Quantum Computation and Quantum Information
+- 18-730: Introduction to Computer Security
+- 18-980: Graduate Projects 
 
