@@ -282,7 +282,6 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
 - 18-743: Neuromorphic Computer Architecture and Processor Design
 - 10-707: Advanced Deep Learning
 - 15-750: Algorithms in the Real World
-- 18-980: Graduate Projects
 
 # Preliminary Future Schedule
 
