@@ -1,10 +1,10 @@
-I"q�<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
+I"��<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
 
 <p><strong>Before CMU:</strong> I took IB math, physics, English Chinese, econ and chem. I also had a solid competition math background (nothing crazy, just local competitions/AMC 12/ AIME). My programming experience was limited to failed attempts to learn python on codeacademy, so no real coding experience.</p>
 
 <p><strong>Major</strong>: I came in restricted undeclared engineering and had really no idea what I wanted to do. At first I wanted to do Materials Science and Engineering, but decided it wasn’t for me after the intro course. In the end, I thought the upper level ECE courses looked the most interesting, so I applied at the end of freshmen year, and luckily, they let everyone who apply transfer to ECE that year.</p>
 
-<p><strong>Goals:</strong> My goals changed a lot through my first 3 years at CMU. I’ve gone from wanting to do MatSci research to working as a software engineer, to working as a hardware design engineer. Now, my interest has shifted to ML, especially deep reinforcement learning, and my plan is is to try and pursue a PhD in CS focusing on deep learning and robotics.</p>
+<p><strong>Goals:</strong> My goals changed a lot through my first 3 years at CMU. I’ve gone from wanting to do MatSci research to working as a software engineer, to working as a hardware design engineer. Now, my interest has shifted to ML, especially deep learning. My goal is just to find work that inspires me.</p>
 
 <p><strong>☆</strong>: courses that really stood out to me and, in my opinion, are genuinely worth taking.</p>
 
@@ -464,10 +464,31 @@
 
 <h2 id="spring-2022">Spring 2022</h2>
 <ul>
-  <li>18-743: Neuromorphic Computer Architecture and Processor Design</li>
-  <li>10-707: Advanced Deep Learning</li>
-  <li>15-750: Algorithms in the Real World</li>
-  <li>18-980: Graduate Projects</li>
+  <li>TA: 18-100: Introduction to Electrical and Computer Engineering
+    <ul>
+      <li>Course didn’t change much from the previous semester. A lot easier this time around since I was already familiar with most of the labs.</li>
+      <li>A lot more TAs meant less grading which was nice, but similar levels of student interaction, which was double nice.</li>
+    </ul>
+  </li>
+  <li>18-743: Neuromorphic Computer Architecture and Processor Design
+    <ul>
+      <li>Pretty disorganized in general but the concepts covered were pretty cool. Neuromorphic computing is a pretty new area of research so our project involved a lot of failure</li>
+      <li>Pretty light. Only 2 assignments which weren’t too bad and a project that explored an area of neuromorphic design, which was pretty cool. If only things worked properly.</li>
+    </ul>
+  </li>
+  <li>10-707: Advanced Deep Learning
+    <ul>
+      <li>Lectures were pretty dense but super interesting and covered a lot of details about some cutting edge stuff, from CNNs to generative methods (VAE, GANs), and seq2seq models, Boltzmann machines, and flavours of more advanced stuff</li>
+      <li>Homeworks were light in general but project took up a lot of time. Really depends how much effort you put into it though.</li>
+    </ul>
+  </li>
+  <li>15-750: Algorithms in the Real World
+    <ul>
+      <li>Really enjoyed this class, Anupam is a great lecturer and the class covered a lot of cool algorithms and a bit of complexity stuff and spectral graph theory.</li>
+      <li>Homeworks took a decent amount of time, but it’s always super satisfying when you figure out the answer. Exams were tough. Really liked the lost key problem on the final though :)</li>
+      <li>It made me want to take more algorithms courses, or at least wish I had taken them in the past.</li>
+    </ul>
+  </li>
 </ul>
 
 <h1 id="preliminary-future-schedule">Preliminary Future Schedule</h1>
