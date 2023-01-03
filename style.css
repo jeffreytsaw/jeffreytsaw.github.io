@@ -7,14 +7,14 @@
 nav ul {
    list-style-type: none;
    font-weight: bold;
-   width: 70%;
+   width: 80%;
    padding: 0px;
    margin: 60px auto;
 }
 
 footer ul {
     list-style: none;
-    width: 70%;
+    width: 80%;
     padding 0px;
     margin: 60px auto;
     font-weight: bold;
@@ -42,7 +42,7 @@ h1, h3, h4, h5, h6, strong {
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -51,12 +51,12 @@ a {
 }
 
 .container {
-  width: 80%
+  width: 90%
   margin: auto
 }
 
 .section {
-  width: 80%;
+  width: 90%
   margin: auto;
   text-align: left;
 }

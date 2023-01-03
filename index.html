@@ -12,21 +12,22 @@ title: Jeffrey Tsaw
 
   <body class="container">
     <div class="section">
-      <div style="float: left; margin: 0px 20px">
+      <div style="float: left; margin: 5px 20px">
         <img class="profile-img" src="img/profile.jpg" alt="USTA Regionals">
             <p style="padding: 0; margin: 0"><a href="mailto:jtsaw@andrew.cmu.edu">Email -  jtsaw@andrew.cmu.edu<span style="display:none">spam</span></p>
-        <p style="padding: 0; margin: 0"> <a href="./jeffreytsaw_resume.pdf" target="_blank">Resume</a> |
+        <p style="padding: 0; margin: 0"> <a href="./jeffreytsaw_resume_22.pdf" target="_blank">Resume</a> |
         <a href="http://www.github.com/jeffreytsaw">Github</a> | <a href="https://www.linkedin.com/in/jeffrey-tsaw-561b35191/">Linkedin</a><span style="display:none">spam</span></p>
       </div>
 
       <div id="bio"  align="left">
            <p>Hi! My name is Jeffrey and welcome to my blog and website!</p>
            
-          <p>I am a Master's Student at Carnegie Mellon Univeristy in Electrical and Computer Enginering. I completed my B.S in ECE at CMU as well in 2021, where my focus was computer systems/hardware and machine learning.</p>
+          <p>I am an incoming software engineer at <a href="https://www.crusoeenergy.com/">Crusoe Energy</a>. I completed my M.S and B.S in Electrical & Computer Engineering at Carnegie Mellon in 2022 and 2021 respectively. 
+          During this time I focused primarily on deep learning and computer architecture/systems. </p>
 
-          <p>Currently my interests lie in deep learning, multimodal machine learning, and neuromorphic computing. I'm hoping to work on projects extending existing deep models to solve relevant real-world problems  </p>
+          <p>Currently my interests lie in deep learning, and the intersection of machine learning and computer systems. My research interests center around applying biologically inspired ideas to deep learning.</p>
 
-          <p>For fun, I love teaching, playing and watching sports (mainly hockey, tennis, sport climbing), and hanging out with friends. I'm also trying to blog about personal milestones and instructive academic content.
+          <p>For fun, I love teaching, playing and watching sports (hockey, tennis, sport climbin, golf), and hanging out with friends. I'm also trying to blog about personal milestones and instructive academic content.
           </p>
 
       </div>
@@ -41,6 +42,34 @@ title: Jeffrey Tsaw
       </ul>
     </div>
     -->
+    <div class="section" id="research">
+      <h2>Research</h2>
+      <table>
+        <tbody>
+          <tr>
+            <td><img class="table-img" src="img/highmmt.png" alt="hover"></td>
+            <td>
+              <h3 style="padding: 0; margin: 0">HighMMT: Quantifying Modality & Interaction Heterogeneity for
+                High-Modality Representation Learning</h3>
+              <p style="padding: 0; margin: 0"> Paul Pu Liang
+                , Yiwei Lyu
+                , Xiang Fan
+                , <strong>Jeffrey Tsaw</strong>
+                , Yudong Liu
+                , Shentong Mo
+                , Dani Yogatama
+                , Louis-Philippe Morency
+                , Ruslan Salakhutdinov</p>
+              <p style="padding: 0; margin: 0"> <a href = "https://arxiv.org/abs/2203.01311">arxiv</a>, <a href = "https://github.com/pliang279/HighMMT">code</a></p>
+              <p style="padding: 0; margin: 0">Submitted to TMLR 2022</p>
+              <p>An information theory-centric metric quantifying modality heterogeneity is introduced to measure affinity between modalities across tasks. 
+                This metric is used to inform parameter groupings in a Transformer based multimodal multitask model that achieve SOTA across several tasks with a significant reduction in parameters </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
     <div class="section" id="projects">
       <h2>Projects</h2>
       <table>
@@ -62,7 +91,7 @@ title: Jeffrey Tsaw
               <h3 style="padding: 0; margin: 0">Autovöt: An Autonomous RC Vehicle Convoy </h3>
               <small style="padding: 0; margin: 0">Undergraduate Capstone Project | Spring 2021</small>
               <p style="padding: 0; margin: 0">With Joel Anyanti, Fausto Leyva </p>
-              <p style="padding: 0; margin: 0"><a href="http://course.ece.cmu.edu/~ece500/projects/s21-teamb6/wp-content/uploads/sites/128/2021/05/AutoVot__Final_Report.pdf">Final Paper</a> | <a href="https://drive.google.com/file/d/1jEZxrYq29IbRjG5GFjylUFefMaX7P14n/view">Video</a></p>
+              <p style="padding: 0; margin: 0"><a href="http://course.ece.cmu.edu/~ece500/projects/s21-teamb6/wp-content/uploads/sites/128/2021/05/AutoVot__Final_Report.pdf">Final Paper</a> | <a href="https://drive.google.com/file/d/1jEZxrYq29IbRjG5GFjylUFefMaX7P14n/view">Video</a> | <a href="http://course.ece.cmu.edu/~ece500/projects/s21-teamb6/wp-content/uploads/sites/128/2021/05/B6_final_poster_pdf.pdf">Poster</a></p>
               <p style="padding: 0; margin: 0"> We developed an RC vehicle convoy from scratch capable of autonomously navigating an obstacle course. Lead vehicle uses a perception stack and SLAM to send directions via bluetooth to following vehicle to navigate obstacles. Won <b>1st Runner Up</b> out of 40+ projects in Spring 2021
               </p>
             </td>
@@ -72,7 +101,7 @@ title: Jeffrey Tsaw
             <td>
               <h3 style="padding: 0; margin: 0">RISCV Processor </h3>
               <small style="padding: 0; margin: 0">Solo Project for <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture">18-447 Intro to Computer Architecture</a> | Spring 2021</small>
-              <p style="padding: 0; margin: 0"><a href="./pipeline.png">Datapath</a></p>
+              <p style="padding: 0; margin: 0"><a href="./pipeline.pdf">Datapath</a></p>
               <p style="padding: 0; margin: 0"> I designed and wrote a synthesizable superscalar out-of-order pipelined RISCV processor in SystemVerilog that implements a subset of the RV32I ISA. Implemented optimizations such as a BTB, instruction stall buffer, and pipeline flushes. Achieved <b>280 MIPS</b> on perscribed benchmarks and <b>1st Quartile</b> performance out of 20+ teams.
               </p>
             </td>
@@ -83,7 +112,7 @@ title: Jeffrey Tsaw
               <h3 style="padding: 0; margin: 0">Recurrent GANs for Music Generation</h3>
               <small style="padding: 0; margin: 0">Final project for <a href="https://www.cs.cmu.edu/~epxing/Class/10701-20/">10-701 Introduction to Machine Learning (PhD)</a> | Fall 2020</small>
               <p style="padding: 0; margin: 0">With Azaan Rehman </p>
-              <p style="padding: 0; margin: 0"><a href="./recurrent_gan_music.pdf">Link to paper</a></p>
+              <p style="padding: 0; margin: 0"><a href="./recurrent_gan_music.pdf">Final Paper</a></p>
               <p style="padding: 0; margin: 0"> We extended a baseline recurrent BiLSTM GAN for music generation and developed a novel architecture containing an input mapping network, convolution and attention layers, and a peripheral classifier using Tensorflow v1 in an AWS EC2 instance to generate statistically more realistic classical music compared to the baseline.
               </p>
             </td>
@@ -92,7 +121,7 @@ title: Jeffrey Tsaw
             <td><img class="table-img" src="img/blackout.png" alt="hover"></td>
             <td>
               <h3 style="padding: 0; margin: 0"><a href="https://github.com/jeffreytsaw/PowerGridRLAgent">Power Grid RL Operator</a></h3>
-              <p style="padding: 0; margin: 0">Quarantine Project | Summer 2020</p>
+              <p style="padding: 0; margin: 0">Summer 2020</p>
               <p style="padding: 0; margin: 0"> I implemented and trained a DQN and a Double Duelling DQN with PER agents from scratch on Tensorflow 2.0 to achieve <b>3500% increase</b> in operation before failure and an 11000% increase in aggregate reward per episode on <a href="https://github.com/rte-france/Grid2Op">grid2op</a> environment compared with the baseline agents.
               </p>
             </td>
@@ -280,7 +309,8 @@ title: Jeffrey Tsaw
       <h2>Coursework</h2>
       <p> Note: Spring 2020 Semester was completed abroad at UCL, and Fall 2021 was a leave of absent for an internship at Apple. </p>
       <ul>
-        
+        <li>[Fall 2022] 18-898 Special Topics: Graph Signal Processing and Geometric Learning</li>
+        <li>[Fall 2022] <a href="https://cmudeeprl.github.io/703website_f22/">10-703 Deep Reinforcement Learning and Control</a></li>
         <li>[Spring 2022] <a href="https://deeplearning-cmu-10707-2022spring.github.io/index.html#info">10-707 Advanced Deep Learning</a></li>
         <li>[Spring 2022] 15-750 Graduate Algorithms</li>
         <li>[Spring 2022] 18-743 Neuromorphic Computer Architecture and Processor Design</li>
