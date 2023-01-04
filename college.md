@@ -288,7 +288,7 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
 - 10-707: Advanced Deep Learning
     - Lectures were pretty dense but super interesting and covered a lot of details about some cutting edge stuff, from CNNs to generative methods (VAE, GANs), and seq2seq models, Boltzmann machines, and flavours of more advanced stuff
     - Homeworks were light in general but project took up a lot of time. Really depends how much effort you put into it though. 
-- 15-750: Algorithms in the Real World
+- **☆** 15-750: Algorithms in the Real World
     - Really enjoyed this class, Anupam is a great lecturer and the class covered a lot of cool algorithms and a bit of complexity stuff and spectral graph theory.
     - Homeworks took a decent amount of time, but it's always super satisfying when you figure out the answer. Exams were tough. Really liked the lost key problem on the final though :)
     - It made me want to take more algorithms courses, or at least wish I had taken them in the past.
@@ -297,11 +297,36 @@ I studied abroad this semester at UCL. I applied early in the fall, and they not
 
 **Reflection:** 10-707 was one of the most interesting classes that I've ever taken. The content was genuinely interesting and it's one of the only classes that I'd want to rewatch lectures I missed or even if I had free time. 15-750 was also a lot of fun and I really like the problem solving aspect of the homeworks. 18-743 was interesting in theory but the courser was pretty disorganized and unfocused making it hard for me to want to work on it. Overall a pretty decent semester; I had time to chill, have fun, and grind a little too.
 
+## Summer 2022
+- Research with Paul Liang, MultiComp Lab CMU
+    - Worked on the HighMMT project over the summer. I was home making it kind of difficult to find time to make meetings and balance the time between working and spending time with family. 
+    - The hardest part was just getting things working since HighMMT is a multimodal multitask model I needed to download a ton of datasets and getting everything imported properly so that it runs
+    - This was the first project that really balanced me having the skills and knowledge to contribute with the project being interesting to me, so I was able to make a lot of progress during the summer and into the fall semester.
+
 ## Fall 2022
-- 10-703: Deep Reinforcement Learning and Control
-- 33-658: Quantum Computation and Quantum Information
+- TA: 18-100: Introduction to Electrical and Computer Engineering
+    - Even more TAs than last time which meant even less work for me. 
+- Research: Paul & Minji
+    - Finished up HighMMT work with Paul in October and started a graph learning project
+    - Slowed down towards the end because there were more assignments
+- **☆** 10-703: Deep Reinforcement Learning and Control  
+    - Really cool class that introduced a lot of state of the art algorithms and papers, where some were published during the semester
+    - Beginning of the class was great, lectures and concepts linked together and built off one another. Latter half felt more like a potpourri of different algorithms and papers, which became harder to keep up
+    - Would've liked a final project instead of exams but the content was super cool.
 - 18-650: Policies of Wireless Systems
-- 18-898: Graph Signal Processing
+    - Thought this would've been chill, but after failing the midterm I started paying attention and found it to be pretty interesting actually
+    - Covered a lot of spectrum policy stuff that I wasn't super interested in, became kinda interesting to see how certain court decisions and laws affect the industry
+- 18-898: Graph Signal Processing and Geometric Learning
+    - This class was basically going through GSP theory that was built up by one PhD student and Jose Moura
+    - While the theory was interesting the course itself was a trainwreck. They arbitrarily added homeworks, had a midterm over thanksgiving break and planned to have a homework, final project presentation and final project paper due during finals week. 
+    - GSP is a pretty new field and there's a lot of potential there so it was pretty exciting to learn about it.
 - 24-694: Creativity and Its Practice
+    - Not much to say this class was supposed to teach and promote creative practices
+    - Class was pretty light in general and the professor is pretty amazing and a super nice dude.
+
+**Workload:** 48 Units - Moderate. There was always something that needed to be done.
+
+**Reflection:** Research took up a lot of my time early in the semester before work started picking up so I was pretty busy throughout. 10-703 ended up being a really fun class and I got to read a lot of cool papers. I wish I took that class earlier and did some RL research. 18-898 was stressful because it was just so poorly run and they increased the frequency of assignments while also adding a final project towards the end. A busy last semester but I'm glad I didn't overdo it or take it too easy. A little bittersweet to be done with school, but I'm definitely less sad this time around and more excited for the chapter ahead!
+
 
 
