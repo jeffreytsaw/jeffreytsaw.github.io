@@ -1,4 +1,4 @@
-I"8�<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
+I"u�<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
 
 <p><strong>Before CMU:</strong> I took IB math, physics, English Chinese, econ and chem. I also had a solid competition math background (nothing crazy, just local competitions/AMC 12/ AIME). My programming experience was limited to failed attempts to learn python on codeacademy, so no real coding experience.</p>
 
@@ -420,14 +420,14 @@
       <li>You get as much as you put into it, so if you really get into the role, and read all the information and try and get involved with discussions it can be a lot of fun.</li>
       <li>The whole simulation was ran by Valens Global, which was a company that consulted with the US government on things like Al-Qaeda, so that was pretty neat.</li>
     </ul>
-
-    <p><strong>Other:</strong> This ends my undergraduate career. I laughed, I cried, but it was an experience I wouldn’t change for the world.</p>
-
-    <p><strong>Workload:</strong>  45 units - Light/Moderate. Moderate when Comp Arch labs were due</p>
-
-    <p><strong>Reflection:</strong> 18-447 labs sucked up majority of my time and my partners weren’t the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It’s always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn’t do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :).</p>
   </li>
 </ul>
+
+<p><strong>Other:</strong> This ends my undergraduate career. I laughed, I cried, but it was an experience I wouldn’t change for the world.</p>
+
+<p><strong>Workload:</strong>  45 units - Light/Moderate. Moderate when Comp Arch labs were due</p>
+
+<p><strong>Reflection:</strong> 18-447 labs sucked up majority of my time and my partners weren’t the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It’s always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn’t do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :).</p>
 
 <h2 id="summer-2021">Summer 2021</h2>
 <ul>
@@ -488,21 +488,30 @@
       <li>Homeworks took a decent amount of time, but it’s always super satisfying when you figure out the answer. Exams were tough. Really liked the lost key problem on the final though :)</li>
       <li>It made me want to take more algorithms courses, or at least wish I had taken them in the past.</li>
     </ul>
-
-    <p><strong>Workload:</strong> 36 Units. Light-ish, but moderate once projects started picking up.</p>
-
-    <p><strong>Reflection:</strong></p>
   </li>
 </ul>
 
-<h1 id="preliminary-future-schedule">Preliminary Future Schedule</h1>
+<p><strong>Workload:</strong> 36 Units. Light-ish, but moderate once projects started picking up.</p>
+
+<p><strong>Reflection:</strong> 10-707 was one of the most interesting classes that I’ve ever taken. The content was genuinely interesting and it’s one of the only classes that I’d want to rewatch lectures I missed or even if I had free time. 15-750 was also a lot of fun and I really like the problem solving aspect of the homeworks. 18-743 was interesting in theory but the courser was pretty disorganized and unfocused making it hard for me to want to work on it. Overall a pretty decent semester; I had time to chill, have fun, and grind a little too.</p>
+
+<h2 id="summer-2022">Summer 2022</h2>
+<ul>
+  <li>Research with Paul Liang, MultiComp Lab CMU
+    <ul>
+      <li>Worked on the HighMMT project over the summer. I was home making it kind of difficult to find time to make meetings and balance the time between working and spending time with family.</li>
+      <li></li>
+    </ul>
+  </li>
+</ul>
 
 <h2 id="fall-2022">Fall 2022</h2>
 <ul>
   <li>10-703: Deep Reinforcement Learning and Control</li>
   <li>33-658: Quantum Computation and Quantum Information</li>
-  <li>18-730: Introduction to Computer Security</li>
-  <li>18-980: Graduate Projects</li>
+  <li>18-650: Policies of Wireless Systems</li>
+  <li>18-898: Graph Signal Processing</li>
+  <li>24-694: Creativity and Its Practice</li>
 </ul>
 
 :ET

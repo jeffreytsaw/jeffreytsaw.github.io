@@ -1,4 +1,4 @@
-I"��<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
+I"|�<p>Inspired by <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=advice_column">Professor Hoe’s Advice</a>, I wanted to share and reflect on my journey through college at CMU so far.</p>
 
 <p><strong>Before CMU:</strong> I took IB math, physics, English Chinese, econ and chem. I also had a solid competition math background (nothing crazy, just local competitions/AMC 12/ AIME). My programming experience was limited to failed attempts to learn python on codeacademy, so no real coding experience.</p>
 
@@ -420,14 +420,14 @@
       <li>You get as much as you put into it, so if you really get into the role, and read all the information and try and get involved with discussions it can be a lot of fun.</li>
       <li>The whole simulation was ran by Valens Global, which was a company that consulted with the US government on things like Al-Qaeda, so that was pretty neat.</li>
     </ul>
-
-    <p><strong>Other:</strong> This ends my undergraduate career. I laughed, I cried, but it was an experience I wouldn’t change for the world.</p>
-
-    <p><strong>Workload:</strong>  45 units - Light/Moderate. Moderate when Comp Arch labs were due</p>
-
-    <p><strong>Reflection:</strong> 18-447 labs sucked up majority of my time and my partners weren’t the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It’s always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn’t do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :).</p>
   </li>
 </ul>
+
+<p><strong>Other:</strong> This ends my undergraduate career. I laughed, I cried, but it was an experience I wouldn’t change for the world.</p>
+
+<p><strong>Workload:</strong>  45 units - Light/Moderate. Moderate when Comp Arch labs were due</p>
+
+<p><strong>Reflection:</strong> 18-447 labs sucked up majority of my time and my partners weren’t the greatest and were busy with other things. That being said they ended up being really rewarding and I think I understood some of the material better because of it. It’s always nice to bridge the gap between idea and implementation. 33-234 was also enjoyable and I learned a lot. The first half of the course was easy, but it got pretty hairy towards the end especially with QM in 3D. 18-500 is pretty annoying, especially with all the report and presentations they made us do which was a waste of time IMO. My advice would be to start and learn all the requisite technologies early so you can breeze during the semester. To be honest I didn’t do much work this semester, I mostly hung around and enjoyed my last semester as an undergraduate with friends in a typical college student manner :).</p>
 
 <h2 id="summer-2021">Summer 2021</h2>
 <ul>
@@ -457,31 +457,98 @@
       <li>Small groups was fun for the most part but was kind of hard to demo the labs when I hadn’t done them…oops.</li>
       <li>Grading was painful as ever. These freshman were submitting blurry photos of their work, illegible handwriting, and answers written in the margins of the question paper. Guys, write your answers on a separate piece of paper neatly. The person grading will normally be nicer if it’s easy to grade.</li>
     </ul>
-
-    <p><strong>Reflection:</strong> I made the decision to take a semester off from school and delay my masters before I got the offer from Apple. It was a tough decision at the time since my recruiter was adamant that an offer was not guaranteed, but I had to think about trying to recruit full time without 2 summers of experience and that would be tough. I was also considering doing a PhD and applications would start in the fall before I had any research experience. This way I have spring and summer for research before the application cycle next fall. Having worked 2 summers in industry, I’m heavily considering a PhD. It’s not that the work isn’t hard or interesting, it just doesn’t feel exciting to me. I was talking to a friend about his project on graph signal processing and graph-CNNs and it really made me want to be on the cutting edge. Hopefully research goes well in the next semester goes will so I can confidently apply for a CS PhD.</p>
   </li>
 </ul>
 
+<p><strong>Reflection:</strong> I made the decision to take a semester off from school and delay my masters before I got the offer from Apple. It was a tough decision at the time since my recruiter was adamant that an offer was not guaranteed, but I had to think about trying to recruit full time without 2 summers of experience and that would be tough. I was also considering doing a PhD and applications would start in the fall before I had any research experience. This way I have spring and summer for research before the application cycle next fall. Having worked 2 summers in industry, I’m heavily considering a PhD. It’s not that the work isn’t hard or interesting, it just doesn’t feel exciting to me. I was talking to a friend about his project on graph signal processing and graph-CNNs and it really made me want to be on the cutting edge. Hopefully research goes well in the next semester goes will so I can confidently apply for a CS PhD.</p>
+
 <h2 id="spring-2022">Spring 2022</h2>
 <ul>
+  <li>TA: 18-100: Introduction to Electrical and Computer Engineering
+    <ul>
+      <li>Course didn’t change much from the previous semester. A lot easier this time around since I was already familiar with most of the labs.</li>
+      <li>A lot more TAs meant less grading which was nice, but similar levels of student interaction, which was double nice.</li>
+    </ul>
+  </li>
   <li>18-743: Neuromorphic Computer Architecture and Processor Design
     <ul>
       <li>Pretty disorganized in general but the concepts covered were pretty cool. Neuromorphic computing is a pretty new area of research so our project involved a lot of failure</li>
       <li>Pretty light. Only 2 assignments which weren’t too bad and a project that explored an area of neuromorphic design, which was pretty cool. If only things worked properly.</li>
     </ul>
   </li>
-  <li>10-707: Advanced Deep Learning</li>
-  <li>15-750: Algorithms in the Real World</li>
+  <li>10-707: Advanced Deep Learning
+    <ul>
+      <li>Lectures were pretty dense but super interesting and covered a lot of details about some cutting edge stuff, from CNNs to generative methods (VAE, GANs), and seq2seq models, Boltzmann machines, and flavours of more advanced stuff</li>
+      <li>Homeworks were light in general but project took up a lot of time. Really depends how much effort you put into it though.</li>
+    </ul>
+  </li>
+  <li><strong>☆</strong> 15-750: Algorithms in the Real World
+    <ul>
+      <li>Really enjoyed this class, Anupam is a great lecturer and the class covered a lot of cool algorithms and a bit of complexity stuff and spectral graph theory.</li>
+      <li>Homeworks took a decent amount of time, but it’s always super satisfying when you figure out the answer. Exams were tough. Really liked the lost key problem on the final though :)</li>
+      <li>It made me want to take more algorithms courses, or at least wish I had taken them in the past.</li>
+    </ul>
+  </li>
 </ul>
 
-<h1 id="preliminary-future-schedule">Preliminary Future Schedule</h1>
+<p><strong>Workload:</strong> 36 Units. Light-ish, but moderate once projects started picking up.</p>
+
+<p><strong>Reflection:</strong> 10-707 was one of the most interesting classes that I’ve ever taken. The content was genuinely interesting and it’s one of the only classes that I’d want to rewatch lectures I missed or even if I had free time. 15-750 was also a lot of fun and I really like the problem solving aspect of the homeworks. 18-743 was interesting in theory but the courser was pretty disorganized and unfocused making it hard for me to want to work on it. Overall a pretty decent semester; I had time to chill, have fun, and grind a little too.</p>
+
+<h2 id="summer-2022">Summer 2022</h2>
+<ul>
+  <li>Research with Paul Liang, MultiComp Lab CMU
+    <ul>
+      <li>Worked on the HighMMT project over the summer. I was home making it kind of difficult to find time to make meetings and balance the time between working and spending time with family.</li>
+      <li>The hardest part was just getting things working since HighMMT is a multimodal multitask model I needed to download a ton of datasets and getting everything imported properly so that it runs</li>
+      <li>This was the first project that really balanced me having the skills and knowledge to contribute with the project being interesting to me, so I was able to make a lot of progress during the summer and into the fall semester.</li>
+    </ul>
+  </li>
+</ul>
 
 <h2 id="fall-2022">Fall 2022</h2>
 <ul>
-  <li>10-703: Deep Reinforcement Learning and Control</li>
-  <li>33-658: Quantum Computation and Quantum Information</li>
-  <li>18-730: Introduction to Computer Security</li>
-  <li>18-980: Graduate Projects</li>
+  <li>TA: 18-100: Introduction to Electrical and Computer Engineering
+    <ul>
+      <li>Even more TAs than last time which meant even less work for me.</li>
+    </ul>
+  </li>
+  <li>Research: Paul &amp; Minji
+    <ul>
+      <li>Finished up HighMMT work with Paul mostly in October and started a Graph learning project</li>
+      <li>Slowed down towards the end because there were more assignments</li>
+    </ul>
+  </li>
+  <li>10-703: Deep Reinforcement Learning and Control
+    <ul>
+      <li>Really cool class that introduced a lot of state of the art algorithms and papers, where some were published during the semester</li>
+      <li>Beginning of the class was great, lectures and concepts linked together and built off one another. Latter half felt more like a potpourri of different algorithms and papers, which became harder to keep up</li>
+      <li>Would’ve liked a final project instead of exams but the content was super cool.</li>
+    </ul>
+  </li>
+  <li>18-650: Policies of Wireless Systems
+    <ul>
+      <li>Thought this would’ve been chill, but after failing the midterm I started paying attention and found it to be pretty interesting actually</li>
+      <li>Covered a lot of spectrum policy stuff that I wasn’t super interested in, became kinda interesting to see how certain court decisions and laws affect the industry</li>
+    </ul>
+  </li>
+  <li>18-898: Graph Signal Processing and Geometric Learning
+    <ul>
+      <li>This class was basically going through GSP theory that was built up by one PhD student and Jose Moura</li>
+      <li>While the theory was interesting the course itself was a trainwreck. They arbitrarily added homeworks, had a midterm over thanksgiving break and planned to have a homework, final project presentation and final project paper due during finals week.</li>
+      <li>GSP is a pretty new field and there’s a lot of potential there so it was pretty exciting to learn about it.</li>
+    </ul>
+  </li>
+  <li>24-694: Creativity and Its Practice
+    <ul>
+      <li>Not much to say this class was supposed to teach and promote creative practices</li>
+      <li>Class was pretty light in general and the professor is pretty amazing and a super nice dude.</li>
+    </ul>
+  </li>
 </ul>
+
+<p><strong>Workload:</strong> 48 Units - Moderate. There was always something that needed to be done.</p>
+
+<p><strong>Reflection:</strong></p>
 
 :ET
