@@ -1,5 +1,5 @@
 title: Jeffrey Tsaw
-email: jtsaw@andrew.cmu.edu
+email: jeffreytsaw@gmail.com
 description: >
   Jeffrey Tsaw's personal website and blog
 baseurl: ""
@@ -16,7 +16,7 @@ input: GFM
 syntax_highlighter: rouge
 syntax_highlighter_opts:
   # Use existing pygments syntax highlighting css
-  css_class: 'highlight'
+  css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -34,9 +34,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-
-
-
-
-

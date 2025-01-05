@@ -3,330 +3,78 @@ layout: default
 title: Jeffrey Tsaw
 ---
 
-<html>
-  <head>
+<div class="section">
+  <div class="profile-container">
+    <img class="profile-img" src="img/profile.jpg" alt="USTA Regionals" />
+    <p style="padding: 0; margin: 0">
+      <a href="mailto:jeffreytsaw@gmail.com"
+        >Email - jeffreytsaw@gmail.com<span style="display: none">spam</span></a
+      >
+    </p>
+    <p style="padding: 0; margin: 0">
+      <a href="./jeffreytsaw_resume_22.pdf" target="_blank">Resume (2022)</a>
+      | <a href="http://www.github.com/jeffreytsaw">Github</a> |
+      <a href="https://www.linkedin.com/in/jeffrey-tsaw-561b35191/">Linkedin</a
+      ><span style="display: none">spam</span>
+    </p>
+  </div>
 
-    <link rel="stylesheet" href="style.css">
+  <div id="bio" style="margin-left: 0">
+    <p>Hi! My name is Jeffrey and welcome to my blog and website!</p>
 
-  </head>
+    <p>
+      I'm a co-founder at <a href="https://www.tryparity.com/">Parity</a>, where
+      we're building the AI SRE for incident response. Before that, I was a
+      software engineer at
+      <a href="https://www.crusoeenergy.com/">Crusoe Energy</a> where I worked
+      on Bitcoin miner firmware and orchestration for the distributed miner
+      fleet.
+    </p>
 
-  <body class="container">
-    <div class="section">
-      <div style="float: left; margin: 5px 20px">
-        <img class="profile-img" src="img/profile.jpg" alt="USTA Regionals">
-            <p style="padding: 0; margin: 0"><a href="mailto:jtsaw@andrew.cmu.edu">Email -  jtsaw@andrew.cmu.edu<span style="display:none">spam</span></p>
-        <p style="padding: 0; margin: 0"> <a href="./jeffreytsaw_resume_22.pdf" target="_blank">Resume</a> |
-        <a href="http://www.github.com/jeffreytsaw">Github</a> | <a href="https://www.linkedin.com/in/jeffrey-tsaw-561b35191/">Linkedin</a><span style="display:none">spam</span></p>
-      </div>
+    <p>
+      I studied Electrical & Computer Engineering at Carnegie Mellon University,
+      graduating with my M.S and B.S in 2022 and 2021. A while ago I wrote some
+      reflections from CMU and my opinions on the courses I took. You can find
+      that <a href="/college">here</a>.
+    </p>
 
-      <div id="bio"  align="left">
-           <p>Hi! My name is Jeffrey and welcome to my blog and website!</p>
-           
-          <p>I am an incoming software engineer at <a href="https://www.crusoeenergy.com/">Crusoe Energy</a>. I completed my M.S and B.S in Electrical & Computer Engineering at Carnegie Mellon in 2022 and 2021 respectively. 
-          During this time I focused primarily on deep learning and computer architecture/systems. </p>
+    <p>
+      I'm interested in deep learning, especially RL and multimodal ML, and
+      computer architecture and embedded systems. These days, I spend a lot of
+      time exploring (i) complex LLM reasoning across multimodal inputs (ii) LLM
+      agent architectures, (iii) time series modeling, (iv) cloud infrastructure
+      and Kubernetes.
+    </p>
 
-          <p>Currently my interests lie in deep learning, and the intersection of machine learning and computer systems. My research interests center around applying biologically inspired ideas to deep learning.</p>
+    <p>
+      In my free time, I enjoy teaching, and playing sports (hockey, tennis,
+      climbing, and golf). I'm also trying to write more but we'll see how that
+      goes.
+    </p>
+  </div>
 
-          <p>For fun, I love teaching, playing and watching sports (hockey, tennis, sport climbin, golf), and hanging out with friends. I'm also trying to blog about personal milestones and instructive academic content.
-          </p>
+  <div style="clear: both"></div>
+</div>
 
-      </div>
-    </div>
-
-    <!--
-    <div class="section" id="news">
-      <h2>News</h2>
-      <ul>
-        <li>[Dec 11, 2019] First</li>
-        <li>[Jan 10, 2019] Second</li>
-      </ul>
-    </div>
-    -->
-    <div class="section" id="research">
-      <h2>Research</h2>
-      <table>
-        <tbody>
-          <tr>
-            <td><img class="table-img" src="img/highmmt.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">HighMMT: Quantifying Modality & Interaction Heterogeneity for
-                High-Modality Representation Learning</h3>
-              <p style="padding: 0; margin: 0"> Paul Pu Liang
-                , Yiwei Lyu
-                , Xiang Fan
-                , <strong>Jeffrey Tsaw</strong>
-                , Yudong Liu
-                , Shentong Mo
-                , Dani Yogatama
-                , Louis-Philippe Morency
-                , Ruslan Salakhutdinov</p>
-              <p style="padding: 0; margin: 0"> <a href = "https://arxiv.org/abs/2203.01311">arxiv</a>, <a href = "https://github.com/pliang279/HighMMT">code</a></p>
-              <p style="padding: 0; margin: 0">Submitted to TMLR 2022</p>
-              <p>An information theory-centric metric quantifying modality heterogeneity is introduced to measure affinity between modalities across tasks. 
-                This metric is used to inform parameter groupings in a Transformer based multimodal multitask model that achieves SOTA across several tasks with a significant reduction in parameters </p>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    
-    <div class="section" id="projects">
-      <h2>Projects</h2>
-      <table>
-        <tbody>
-          <tr>
-            <td><img class="table-img" src="img/hybrid.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">Hybrid Neural Model for Solving Math Word Problems </h3>
-              <small style="padding: 0; margin: 0">Project for <a href = "https://deeplearning-cmu-10707-2022spring.github.io/index.html#info">10-707 Advanced Deep Learning</a> | Spring 2022</small>
-              <p style="padding: 0; margin: 0">With Raghav Bansal </p>
-              <p style="padding: 0; margin: 0"><a href="./10707_Project.pdf">Final Paper</a></p>
-              <p style="padding: 0; margin: 0"> We combined SOTA bottom up MWP solver with a SOTA top-down MWP solver into a novel hybrid model. Developed a novel query network to substitute probable subtrees from bottom up network with top down network's goal vectors. <b>Achieved 75% theoretical accuracy on Math23k beating previous SOTA of 74%  </b>
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/autovot.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">Autovöt: An Autonomous RC Vehicle Convoy </h3>
-              <small style="padding: 0; margin: 0">Undergraduate Capstone Project | Spring 2021</small>
-              <p style="padding: 0; margin: 0">With Joel Anyanti, Fausto Leyva </p>
-              <p style="padding: 0; margin: 0"><a href="http://course.ece.cmu.edu/~ece500/projects/s21-teamb6/wp-content/uploads/sites/128/2021/05/AutoVot__Final_Report.pdf">Final Paper</a> | <a href="https://drive.google.com/file/d/1jEZxrYq29IbRjG5GFjylUFefMaX7P14n/view">Video</a> | <a href="http://course.ece.cmu.edu/~ece500/projects/s21-teamb6/wp-content/uploads/sites/128/2021/05/B6_final_poster_pdf.pdf">Poster</a></p>
-              <p style="padding: 0; margin: 0"> We developed an RC vehicle convoy from scratch capable of autonomously navigating an obstacle course. Lead vehicle uses a perception stack and SLAM to send directions via bluetooth to following vehicle to navigate obstacles. Won <b>1st Runner Up</b> out of 40+ projects in Spring 2021
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/riscv.jpg" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">RISCV Processor </h3>
-              <small style="padding: 0; margin: 0">Solo Project for <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture">18-447 Intro to Computer Architecture</a> | Spring 2021</small>
-              <p style="padding: 0; margin: 0"><a href="./pipeline.pdf">Datapath</a></p>
-              <p style="padding: 0; margin: 0"> I designed and wrote a synthesizable superscalar out-of-order pipelined RISCV processor in SystemVerilog that implements a subset of the RV32I ISA. Implemented optimizations such as a BTB, instruction stall buffer, and pipeline flushes. Achieved <b>280 MIPS</b> on perscribed benchmarks and <b>1st Quartile</b> performance out of 20+ teams.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/gan_proj.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">Recurrent GANs for Music Generation</h3>
-              <small style="padding: 0; margin: 0">Final project for <a href="https://www.cs.cmu.edu/~epxing/Class/10701-20/">10-701 Introduction to Machine Learning (PhD)</a> | Fall 2020</small>
-              <p style="padding: 0; margin: 0">With Azaan Rehman </p>
-              <p style="padding: 0; margin: 0"><a href="./recurrent_gan_music.pdf">Final Paper</a></p>
-              <p style="padding: 0; margin: 0"> We extended a baseline recurrent BiLSTM GAN for music generation and developed a novel architecture containing an input mapping network, convolution and attention layers, and a peripheral classifier using Tensorflow v1 in an AWS EC2 instance to generate statistically more realistic classical music compared to the baseline.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/blackout.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0"><a href="https://github.com/jeffreytsaw/PowerGridRLAgent">Power Grid RL Operator</a></h3>
-              <p style="padding: 0; margin: 0">Summer 2020</p>
-              <p style="padding: 0; margin: 0"> I implemented and trained a DQN and a Double Duelling DQN with PER agents from scratch on Tensorflow 2.0 to achieve <b>3500% increase</b> in operation before failure and an 11000% increase in aggregate reward per episode on <a href="https://github.com/rte-france/Grid2Op">grid2op</a> environment compared with the baseline agents.
-              </p>
-            </td>
-          </tr>
-          <!--
-          <tr>
-            <td><img class="table-img" src="img/usb.png" alt="hover"></td>
-            <td>
-                <h3 style="padding: 0; margin: 0">Serial Interface Engine: USB 2.0</h3>
-              <p style="padding: 0; margin: 0">With Jared Rodriguez</p>
-              <p style="padding: 0; margin: 0">Project for <a href="https://courses.ece.cmu.edu/18341">18-341 Logic Design and Verification</a> | Fall 2019</p>
-              <p style="padding: 0; margin: 0"> We designed and implemented a part of the serial interface engine of a USB 2.0 Host at a RTL level in SystemVerilog with several coordinated hardware threads. Our host carries out read and write requests by controlling the USB to send and receive specific packets.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/embedded.jpg" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">Real Time Embedded System</h3>
-              <p style="padding: 0; margin: 0">With Young Woo Kim</p>
-              <p style="padding: 0; margin: 0">Project for <a href="https://course.ece.cmu.edu/~ece349/#description"> 18-349 Introduction to Embedded Systems</a> | Fall 2019</p>
-              <p style="padding: 0; margin: 0">We designed a real-time embedded system for a STM32 Nucleo board on ARM Thumb2 architecture, including a bootloader, I2C, UART, SPI drivers, a syscall library, and a real-time OS with rate monotonic scheduling and priority ceiling protocol.
-              </p>
-            </td>
-          </tr>
-        -->
-          <tr>
-            <td><img class="table-img" src="img/credit_suisse.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0"><a href="https://github.com/mallocupiedRam/CreditSuisseCodingChallenge">Resume-Job Compatability Algorithm</a></h3>
-              <p style="padding: 0; margin: 0">With Samantha Ramsey and Shaan Dave </p>
-              <p style="padding: 0; margin: 0">Winner of Credit Suisse Coding Challenge 2019 | Summer 2019</p>
-              <p style="padding: 0; margin: 0"> We designed an algorithm for picking the most qualified resume based on a job description through an NER model and a matching algorithm to compute an aggregate score. We also identified the most suitable job given a resume using word2vec with cosine similarity.
-              </p>
-            </td>
-          </tr>
-          
-          <tr>
-            <td><img class="table-img" src="img/tp.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0"><a href="https://www.youtube.com/watch?v=Uo_H3yetQic">The Empathetic Jukebox</a></h3>
-              <small style="padding: 0; margin: 0">Final Project for <a href="http://www.krivers.net/15112-s18/index.html">15-112 Fundamentals of Programming and CS</a> | Spring 2018</small>
-              <p style="padding: 0; margin: 0"> I trained an emotion classifier with OpenCV and generated Spotify playlists based on the user's emotion using the Spotify API, and plays the songs automatically in real-time by webscraping YouTube.
-              </p>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <div class="section" id="projects">
-      <h2>Experience</h2>
-      <table>
-        <tbody>
-          <tr>
-            <td><img class="table-img" src="img/apple.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">Apple Inc.</h3>
-              <p style="padding: 0; margin: 0"></p>
-              <p style="padding: 0; margin: 0">GPU Hardware Intern (virtual) | Fall 2021 </p>
-              <p style="padding: 0; margin: 0">I worked on GPU memory verification team. Integrated idle checks and developed coverage for 5 modules within GPU routing block. Developed novel strategy to hit previously un-hit coverage points using Xceligen ML tool to <b>improve coverage of a coverpoint by over 10%</b></p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/credit_suisse.png" alt="hover"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">Credit Suisse</h3>
-              <p style="padding: 0; margin: 0"></p>
-              <p style="padding: 0; margin: 0">Technology Analyst Intern (virtual) | Summer 2020 </p>
-              <p style="padding: 0; margin: 0">I interned with Global Markets Data Analytics and developed a 2-stage pipelined model to extract bond information from Bloomberg chat data in Python in an Agile development environment.</p>
-              
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <div class="section" id="teaching">
-      <h2>Teaching</h2>
-      <table>
-        <tbody>
-          <tr>
-            <td><img class="table-img" src="img/18100.png" ></td>
-            <td>            
-            <h3 style="padding: 0; margin: 0">18-100 Introduction to Electrical and Computer Engineering</h3>
-            <p style="padding: 0; margin: 0">TA</a> | Fall 2021 - Fall 2022</p>
-            <p style="padding: 0; margin: 0">I taught recitation, held office hours and small groups, and wrote exam and homework problems on a variety of concepts including digital logic, transistors, op amps, signal processing and filters, and machine learning. </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/10701.gif" alt="https://www.cs.cmu.edu/~aarti/Class/10701_Spring21/ppl.html"></td>
-            <td>
-            <h3 style="padding: 0; margin: 0"><a href="https://www.cs.cmu.edu/~aarti/Class/10701_Spring21/index.html">10-701 Introduction to Machine Learning (PhD)</a></h3>
-            <p style="padding: 0; margin: 0">TA</a> | Spring 2021</p>
-            <p style="padding: 0; margin: 0">I taught recitation, held office hours, and wrote exam and homework problems on various ML concepts, including regression and optimization, deep learning, reinforcement learning, graphical models and learning theory. </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/18349.jpg" alt="https://pbs.twimg.com/media/Dp3-bvGXQAAa2Kz.jpg"></td>
-            <td>
-            <h3 style="padding: 0; margin: 0">18-349 Introduction to Embedded Systems</h3>
-            <p style="padding: 0; margin: 0">TA</a> | Fall 2020</p>
-            <p style="padding: 0; margin: 0">I held weekly small group sessions and office hours teaching fundamental concepts in embedded systems including ARM Thumbv2, serial protocols, timers and interrupts, threading and scheduling, networking, and security</p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/33141.jpeg" alt="https://pbs.twimg.com/media/Dp3-bvGXQAAa2Kz.jpg"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">33-141 Physics I for Engineering Students</h3>
-              <p style="padding: 0; margin: 0"><a href="https://en.wikipedia.org/wiki/Supplemental_instruction">SI Leader</a> | Fall 2019</p>
-              <p style="padding: 0; margin: 0">I organized and led biweekly sessions of 30+ students, as well as several exam review of 100+ students to review lecture material on kinematics, mechanics, energy and momentum, and thermodynamics. I also wrote and prepared problem sets and solutions for each session and exam review.</p>
-            </td>
-          </tr>
-
-          <tr>
-            <td><img class="table-img" src="img/15213.jpg" alt="http://csapp.cs.cmu.edu/3e/images/csapp3e-cover.jpg"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0"><a href="https://www.cs.cmu.edu/afs/cs/academic/class/15213-m19/www/index.html">15-213 Introduction to Computer Systems</a></h3>
-              <p style="padding: 0; margin: 0">TA | Summer 2019</p>
-              <p style="padding: 0; margin: 0">I led lecture activities and held office hours  on content covering system-level I/O, network protocols, bit-level representations, x86-64 programming, exceptional control flow (processes and signals), virtual memory, and caching. I also developed and benchmarked test traces to stress students' implementations of malloc memory allocator.</p>
-            </td>
-          </tr>
-          
-          <tr>
-            <td><img class="table-img" src="img/33142.jpg" alt="https://image.slidesharecdn.com/writingforcomputerscience3rdeditionspringer-161111045634/95/writing-for-computer-science-3rd-edition-springer-1-638.jpg?cb=1478840240"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">33-142 Physics II for Engineering Students</h3>
-              <p style="padding: 0; margin: 0">EXCEL Leader | Spring 2019</p>
-              <p style="padding: 0; margin: 0">I organized and led 3 weekly sessions of 9-10 students, covering material on electric fields, Gauss' law, magnetism, electromagnetic induction, and Maxwell's Equations. I also wrote and prepared problem sets for each session, and co-developed and co-led multiple exam reviews with 100+ students.</p>
-            </td>
-          </tr>
-          
-          <tr>
-            <td><img class="table-img" src="img/21259.jpg" alt="https://image.slidesharecdn.com/writingforcomputerscience3rdeditionspringer-161111045634/95/writing-for-computer-science-3rd-edition-springer-1-638.jpg?cb=1478840240"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">21-259 Calculus in Three Dimensions</h3>
-              <p style="padding: 0; margin: 0">EXCEL Leader | Fall 2019</p>
-              <p style="padding: 0; margin: 0">I organized and led 3 weekly sessions of 9-10 students, covering material on multivariable limits, differentiation, integration, surface and line integrals, and Stoke's and Divergence Theorems. I also wrote and prepared problem sets for each session, and led 3 exam reviews with up to 30 students.</p>
-            </td>
-          </tr>
-          
-          <tr>
-            <td><img class="table-img" src="img/33141.jpeg" alt="https://image.slidesharecdn.com/writingforcomputerscience3rdeditionspringer-161111045634/95/writing-for-computer-science-3rd-edition-springer-1-638.jpg?cb=1478840240"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0">33-141 Physics I for Engineering Students</h3>
-              <p style="padding: 0; margin: 0">TAA | Fall 2019</p>
-              <p style="padding: 0; margin: 0">I co-led biweekly recitations for 25+ undergraduate students, providing support on concepts including kinematics, mechanics, energy and momentum, and thermodynamics</p>
-            </td>
-          </tr>
-        
-        </tbody>
-      </table>
-    </div>
-
-   
-   <!--
-    <div class="section" id="involvement">
-      <h2>Involvement</h2>
-      <table>
-        <tbody>
-          <tr>
-            <td><img class="table-img" src="img/scottylabs.png" alt="https://scottylabs.org/img/shareable-brand.png"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0"><a href="https://scottylabs.org/">ScottyLabs</a></h3>
-              <p style="padding: 0; margin: 0">Former Director of Events</p>
-              <p style="padding: 0; margin: 0"> It's my fourth year organizing CMU's largest annual hackathon <a href="https://tartanhacks.com/">TartanHacks</a>. I gave a tech talk on <a href="https://github.com/jzhanson/steve-crusader-against-the-earth">Git and using the Bash terminal</a> at tech talk event Crash Course. Later, I organized and mentored other speakers for tech talk events Web Dev Weekend and Crash Course.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td><img class="table-img" src="img/issaquah.jpg" alt="https://pbs.twimg.com/profile_images/876904401192878080/H9sV0WNl_400x400.jpg"></td>
-            <td>
-              <h3 style="padding: 0; margin: 0"><a href="https://www.issaquahchamber.com/salmondays">Salmon Days</a></h3>
-              <p style="padding: 0; margin: 0"> Previously, I volunteered at Issaquah, WA's annual <a href="https://www.issaquahchamber.com/salmondays">Salmon Days festival</a> celebrating the return of almost two tons of salmon as a general-purpose can-do problem solver on the legendary "Ofishal XStream Team."
-              </p>
-            </td>
-          </tr>
-
-        </tbody>
-      </table>
-    </div>
-   -->
-
-    <div class="section" id="coursework">
-      <h2>Coursework</h2>
-      <p> Note: Spring 2020 Semester was completed abroad at UCL, and Fall 2021 was a leave of absent for an internship at Apple. </p>
-      <ul>
-        <li>[Fall 2022] 18-898 Special Topics: Graph Signal Processing and Geometric Learning</li>
-        <li>[Fall 2022] <a href="https://cmudeeprl.github.io/703website_f22/">10-703 Deep Reinforcement Learning and Control</a></li>
-        <li>[Spring 2022] <a href="https://deeplearning-cmu-10707-2022spring.github.io/index.html#info">10-707 Advanced Deep Learning</a></li>
-        <li>[Spring 2022] 15-750 Graduate Algorithms</li>
-        <li>[Spring 2022] 18-743 Neuromorphic Computer Architecture and Processor Design</li>
-        <li>[Spring 2021] <a href="https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture">18-447 Introduction to Computer Architecture</a></li>
-        <li>[Spring 2021] <a href="http://course.ece.cmu.edu/~ece500/projects/s21-teamb6/">18-500 ECE Undergraduate Capstone</a></li>
-        <li>[Spring 2021] 33-234 Quantum Physics</li>
-        <li>[Fall 2020] <a href="https://www.cs.cmu.edu/~epxing/Class/10701-20/">10-701 Introduction to Machine Learning (PhD)</a></li>
-        <li>[Fall 2020] 21-355 Principles of Real Analysis I </li>
-        <li>[Spring 2020] ELEC0024 Digital Signal Processing and Systems (Graduate)</li>
-        <li>[Spring 2020] ELEC0029 Electronic Devices and Nanotechnology</li>
-        <li>[Fall 2019] <a href="https://courses.ece.cmu.edu/18341">18-341 Logic Design and Verification</a></li>
-        <li>[Fall 2019] <a href="https://course.ece.cmu.edu/~ece349/">18-349 Introduction to Embedded Systems</a></li>
-        <li>[Fall 2019] 21-325 Probability Theory (Honors)</li>
-      </ul>
-    </div>
-
-  </body>
-
-</html>
+<div class="section" id="news">
+  <h2>News</h2>
+  <ul>
+    <li>
+      [May 7, 2024] Happy to announce that I'll be joining YC S24! My cofounders
+      and I are building Parity, an AI SRE for remediating Kubernetes issues.
+    </li>
+    <li>
+      [May 30, 2023] Our paper
+      <a href="https://openreview.net/forum?id=ttzypy3kT7"
+        >High-Modality Multimodal Transformer: Quantifying Modality &
+        Interaction Heterogeneity for High-Modality Representation Learning</a
+      >
+      was accepted into <a href="https://jmlr.org/tmlr/">TMLR</a>!
+    </li>
+    <li>
+      [March 27, 2023] Really excited to be joining
+      <a href="https://www.crusoeenergy.com/">Crusoe Energy</a> as a Software
+      Engineer to build a green climate friendly cloud service!
+    </li>
+  </ul>
+</div>
